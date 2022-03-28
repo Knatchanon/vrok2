@@ -6,6 +6,7 @@
   "dependencies": {
     "@azure/cognitiveservices-customvision-prediction": "^5.1.2",
     "@azure/cognitiveservices-customvision-training": "^5.2.0",
+    "@sap/hana-client": "^2.12.20",
     "axios": "^0.26.1",
     "body-parser": "^1.19.2",
     "cors": "^2.8.5",
